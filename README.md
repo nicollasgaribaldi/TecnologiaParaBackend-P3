@@ -1,14 +1,10 @@
 # TecnologiaParaBackend-P3
-Repositório da Disciplina Tecnologia para Backend do Professor Kelson Victor
-Curso Sistemas para Internet - Uniesp Centro Universitário
+Repositório da Disciplina Tecnologia para Backend do Professor Kelson Victor - Curso Sistemas para Internet - Uniesp Centro Universitário
 
 # Aluno-Online  
 
 **Descrição do Projeto**  
 Este é um projeto de API RESTful desenvolvido para a disciplina de Tecnologias para Back-End. Ele possibilita a gestão de alunos, professores, disciplinas e matrículas. Inclui funcionalidades para adicionar, atualizar, visualizar e remover registros, além de realizar cálculos, como médias de notas.  
-
-**Como configurar as dependências:**  
-Acesse o site [Spring Initializr](https://start.spring.io) e selecione as dependências necessárias: Spring Web, Spring Data JPA, PostgresSQL Driver e Lombok. Após o download, importe a pasta do projeto para a sua IDE favorita e configure-a conforme necessário.  
 
 ## Ferramentas e Tecnologias Utilizadas  
 - **Linguagem:** Java 17 com Spring Framework.  
