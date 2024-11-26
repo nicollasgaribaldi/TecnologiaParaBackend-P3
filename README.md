@@ -14,8 +14,8 @@ Acesse o site [Spring Initializr](https://start.spring.io) e selecione as depend
 - **Linguagem:** Java 17 com Spring Framework.  
 - **Gerenciador de dependências:** Maven.  
 - **Banco de dados:** PostgreSQL.  
-- **Ferramentas de apoio:** Insomnia para testes, DBeaver para gerenciamento do banco de dados.  
-- **IDE:** IntelliJ IDEA ou outra de sua escolha.  
+- **Ferramentas de apoio:** Insomnia/Swagger para testes, DBeaver para gerenciamento do banco de dados.  
+- **IDE:** IntelliJ IDEA  
 
 ## Estrutura do Projeto  
 
